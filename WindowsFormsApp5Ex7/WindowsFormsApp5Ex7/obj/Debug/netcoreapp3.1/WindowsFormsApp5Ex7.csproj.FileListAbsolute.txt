@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\WindowsFormsApp5Ex7\WindowsFormsApp5Ex7\bin\Debug\netcoreapp3.1\WindowsFormsApp5Ex7.exe
+C:\Users\user\source\repos\WindowsFormsApp5Ex7\WindowsFormsApp5Ex7\bin\Debug\netcoreapp3.1\WindowsFormsApp5Ex7.deps.json
+C:\Users\user\source\repos\WindowsFormsApp5Ex7\WindowsFormsApp5Ex7\bin\Debug\netcoreapp3.1\WindowsFormsApp5Ex7.runtimeconfig.json
+C:\Users\user\source\repos\WindowsFormsApp5Ex7\WindowsFormsApp5Ex7\bin\Debug\netcoreapp3.1\WindowsFormsApp5Ex7.runtimeconfig.dev.json
+C:\Users\user\source\repos\WindowsFormsApp5Ex7\WindowsFormsApp5Ex7\bin\Debug\netcoreapp3.1\WindowsFormsApp5Ex7.dll
+C:\Users\user\source\repos\WindowsFormsApp5Ex7\WindowsFormsApp5Ex7\bin\Debug\netcoreapp3.1\WindowsFormsApp5Ex7.pdb
+C:\Users\user\source\repos\WindowsFormsApp5Ex7\WindowsFormsApp5Ex7\obj\Debug\netcoreapp3.1\WindowsFormsApp5Ex7.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WindowsFormsApp5Ex7\WindowsFormsApp5Ex7\obj\Debug\netcoreapp3.1\WindowsFormsApp5Ex7.Form1.resources
+C:\Users\user\source\repos\WindowsFormsApp5Ex7\WindowsFormsApp5Ex7\obj\Debug\netcoreapp3.1\WindowsFormsApp5Ex7.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsFormsApp5Ex7\WindowsFormsApp5Ex7\obj\Debug\netcoreapp3.1\WindowsFormsApp5Ex7.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WindowsFormsApp5Ex7\WindowsFormsApp5Ex7\obj\Debug\netcoreapp3.1\WindowsFormsApp5Ex7.AssemblyInfo.cs
+C:\Users\user\source\repos\WindowsFormsApp5Ex7\WindowsFormsApp5Ex7\obj\Debug\netcoreapp3.1\WindowsFormsApp5Ex7.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsFormsApp5Ex7\WindowsFormsApp5Ex7\obj\Debug\netcoreapp3.1\WindowsFormsApp5Ex7.dll
+C:\Users\user\source\repos\WindowsFormsApp5Ex7\WindowsFormsApp5Ex7\obj\Debug\netcoreapp3.1\WindowsFormsApp5Ex7.pdb
+C:\Users\user\source\repos\WindowsFormsApp5Ex7\WindowsFormsApp5Ex7\obj\Debug\netcoreapp3.1\WindowsFormsApp5Ex7.genruntimeconfig.cache
